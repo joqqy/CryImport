@@ -1,5 +1,3 @@
---joqqyhez@gmail.com
-
 --/////////////////////////////////////////  Notes /////////////////////////////////////// 
 
 -- C:\Program Files (x86)\Crytek\CRYENGINE Launcher\Crytek\CRYENGINE_5.0\Code\CryEngine\CryCommon\CryFile.h:
